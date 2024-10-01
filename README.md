@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil
 
-<!--
-**anabzs/anabzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Beatryz
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo no JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ### Você pode entrar em contato comigo pelo:
+  anabzs__
+  
+  anabfs08@icloud.com
+
+  ![](![image](https://github.com/user-attachments/assets/f8d2337b-248f-4207-97fb-ad2c98838dfa)
